@@ -1,0 +1,86 @@
+{
+  "node-1": {
+    "label": "ALCALDE",
+    "info": "lorem ipsum"
+  },
+  "node-2": {
+    "label": "CONCEJO MUNICIPAL",
+    "info": "lorem ipsum"
+  },
+  "node-3": {
+    "label": "CONSEJO DE SEGURIDAD PUBLICA",
+    "info": "lorem ipsum"
+  },
+  "node-4": {
+    "label": "CONSEJO ORG. SOC. CIVIL",
+    "info": "lorem ipsum"
+  },
+  "node-5": {
+    "label": "ADMINISTRACIÓN MUNICIPAL",
+    "info": "lorem ipsum"
+  },
+  "node-6": {
+    "label": "JUZGADO POLICIA LOCAL",
+    "info": "lorem ipsum"
+  },
+  "node-7": {
+    "label": "DIRECCIÓN JURIDICA",
+    "info": "lorem ipsum"
+  },
+  "node-8": {
+    "label": "DIRECCIÓN DE CONTROL",
+    "info": "lorem ipsum"
+  },
+  "node-9": {
+    "label": "SECRETARIA MUNICIPAL",
+    "info": "lorem ipsum"
+  },
+  "node-10": {
+    "label": "SECRETARIA DE PLANIFICACIÓN",
+    "info": "lorem ipsum"
+  },
+  "node-12": {
+    "label": "DIRECCIÓN DE TRANSITO Y TRANSPORTE PUBLICO",
+    "info": "lorem ipsum"
+  },
+  "node-13": {
+    "label": "DIRECCIÓN DE OBRAS MUNICIPALES",
+    "info": "lorem ipsum"
+  },
+  "node-14": {
+    "label": "DIRECCIÓN DE DESARROLLO COMUNITARIO",
+    "info": "lorem ipsum"
+  },
+  "node-15": {
+    "label": "DIRECCIÓN DE ADMINISTRACIÓN Y FINANZAS",
+    "info": "lorem ipsum"
+  },
+  "node-16": {
+    "label": "DIRECCIÓN DE SALUD",
+    "info": "lorem ipsum"
+  },
+  "node-17": {
+    "label": "DIRECCIÓN DE ADMINISTRACIÓN DE EDUCACIÓN MUNICIPAL",
+    "info": "lorem ipsum"
+  },
+  "node-18": {
+    "label": "DIRECCIÓN DE PROTECCIÓN Y MEDIO AMBIENTE",
+    "info": "lorem ipsum"
+  },
+  "node-19": {
+    "label": "DIRECCIÓN OPERATIVA DE MANTENCIONES INTERNAS",
+    "info": "lorem ipsum"
+  },
+  "node-20": {
+    "label": "DIRECCIÓN DE SEGURIDAD PUBLICA Y CIUDADANA",
+    "info": "lorem ipsum"
+  },
+  "node-21": {
+    "label": "CEMENTERIO MUNICIPAL",
+    "info": "lorem ipsum"
+  },
+  "node-22": {
+    "label": "DELEGACIÓN MUNICIPAL DE CURIMÓN",
+    "info": "lorem ipsum"
+  }
+}
